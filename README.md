@@ -7,3 +7,12 @@
   <h3 align="center">By Douglas Tesch</h3>
 </p>
 <br />
+
+## References
+
+- [References](#references)
+- [About the Project](#about-the-project)
+  
+## About the Project
+
+Go Barber is a project made to help  in the schedule of barbershops
